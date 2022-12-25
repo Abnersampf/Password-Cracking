@@ -1,0 +1,5 @@
+Nessa pasta você vai encontrar 4 arquivos:
+- Esse arquivo texto (.txt) que você está lendo;
+- O programa mPOV BRUTE FORCE v1.0.exe (é esse que você tem que executar, caso queira quebrar o hash que você precisa);
+- O arquivo mPOV BRUTE FORCE v1.0.py, que é o código fonte do programa (você pode ver literalmente como o programa funciona);
+- E por último, um arquivo .ico que é o icone do programa (você não precisa dele para o programa funcionar, eu só disponibilizei ele caso você queira transformar o arquivo .py em um .exe por conta própria e precise de um icone).
